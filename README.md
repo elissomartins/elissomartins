@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elissomartins
-- 👀 I’m interested in programming to make life easier through logic.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning version control software.
 - 💞️ I’m looking to collaborate on with projects.
 - 📫 How to reach me . . through my social media @elissomartins
