@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elissomartins (noob)
+- 👋 Hi, I’m @elissomartins.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning version control software.
 - 💞️ I’m looking to collaborate on with projects.
